@@ -1,0 +1,10 @@
+#Package Manager Folder
+node_modules
+bower_components
+
+#OS/IDE Folders
+.idea
+.DS_Store
+
+#Log Files
+*.log
