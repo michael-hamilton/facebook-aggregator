@@ -1,0 +1,19 @@
+{
+  "name": "facebook-aggregator",
+  "version": "0.0.0",
+  "description": "Facebook Aggregator is a tool for aggregating various sources of content from Facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-hamilton/facebook-aggregator.git"
+  },
+  "author": "Michael Hamilton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michael-hamilton/facebook-aggregator/issues"
+  },
+  "homepage": "https://github.com/michael-hamilton/facebook-aggregator#readme"
+}
